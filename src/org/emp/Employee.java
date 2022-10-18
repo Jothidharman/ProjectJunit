@@ -2,6 +2,14 @@ package org.emp;
 
 public class Employee {
 	
+	public void A() {
+		System.out.println("1303641");
+	}
+	
+	public void started() {
+		System.out.println("1303641");
+	}
+	
 	public void empId() {
 		System.out.println("1303641");
 	}
